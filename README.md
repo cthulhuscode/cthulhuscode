@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project related to web development**
 
-- 💬 Ask me about **Node.js**
+- 💬 Let's talk about **web development**
 
 - 📫 How to reach me **ruvalsen@gmail.com**
 
