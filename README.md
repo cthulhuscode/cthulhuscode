@@ -44,8 +44,12 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=cthulhuscode&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cthulhuscode&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cthulhuscode&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats-88s7ryw7g-cthulhuscode.vercel.app/api/top-langs/?username=cthulhuscode&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats-88s7ryw7g-cthulhuscode.vercel.app/api?username=cthulhuscode&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cthulhuscode&theme=dark&hide_border=true)<br/>
+
+[![willianrod's wakatime stats](https://github-readme-stats-88s7ryw7g-cthulhuscode.vercel.app/api/wakatime?username=cthulhuscode&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/aeae4449-d917-4ed2-9eb8-76e13c47ab75.svg?style=flat)](https://wakatime.com/@aeae4449-d917-4ed2-9eb8-76e13c47ab75)
 
 [![](https://visitcount.itsvg.in/api?id=cthulhuscode&icon=5&color=12)](https://visitcount.itsvg.in)
