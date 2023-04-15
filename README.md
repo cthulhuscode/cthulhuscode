@@ -1,7 +1,9 @@
 <div align="center"><img align="center" src="./dev.png" style="width: 200px"/></div>
 
 <h1 align="center">Hi 👋, I'm Enrique Ruvalcaba</h1>
-<h2 align="center">A passionate software engineer from México</h2>
+<h3 width="24" align="center">A passionate software engineer from México</h3>
+
+<br>
 
 - 🔭 I’m currently working on **my own projects**
 
