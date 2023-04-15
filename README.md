@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Enrique Ruvalcaba</h1>
 <h2 align="center">A passionate software engineer from México</h2>
 
-<br>
-
 - 🔭 I’m currently working on **my own projects**
 
 - 🌱 I’m currently improving my skills in **React.js & Node.js**
