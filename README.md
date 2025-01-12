@@ -5,17 +5,13 @@
 
 <br>
 
-- 🔭 I’m currently working on **my own projects**
+- 🔭 I’m currently working at **[Nibbio](https://www.nibbio.co/)**
 
 - 🌱 I’m currently improving my skills in **React.js & Node.js**
 
 - 👯 I’m looking to collaborate on **any project related to web development**
 
-- 🤝 I’m currently looking for **a job**
-
-- 👨‍💻 All of my projects are available in [my portfolio](https://ruvalsen.netlify.app/#projects)
-
-- 📫 How to reach me **ruvalsen@gmail.com**
+- 👨‍💻 Some of my projects are available in [my portfolio](https://ruvalsen.netlify.app/#projects)
 
 <br>
 
